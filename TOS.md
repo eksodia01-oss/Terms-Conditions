@@ -8,7 +8,7 @@ By inviting Question Bot to your Discord server, you agree to the following term
 - You agree not to intentionally spam, abuse, or attempt to crash the bot's infrastructure.
 
 ### 2. Bring Your Own Key (BYOK) Responsibility
-- [Bot Name] requires server administrators to provide their own Google API Key.
+- Question Bot requires server administrators to provide their own Google API Key.
 - **You are entirely responsible for the usage, limits, and security of your own API Key.** 
 - We highly recommend setting up quota limits on your Google Cloud Console. We are not responsible for any charges or rate limits applied to your Google account by your server members.
 
