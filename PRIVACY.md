@@ -1,7 +1,7 @@
 # Privacy Policy for Question Bot
 Last Updated: 07/05/2026
 
-Thank you for using [Bot Name]! This Privacy Policy explains what data we collect, why we collect it, and how it is stored when you invite our bot to your Discord Server.
+Thank you for using Question Bot! This Privacy Policy explains what data we collect, why we collect it, and how it is stored when you invite our bot to your Discord Server.
 
 ### 1. Data We Collect and Store
 To function properly, the bot stores the following data in a secure cloud database:
